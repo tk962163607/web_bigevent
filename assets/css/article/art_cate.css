@@ -15,8 +15,8 @@ body {
   align-items: center;
 }
 
-#form-add,
-#form-edit {
+#formData,
+#bianjiData {
   padding-top: 20px;
   padding-right: 30px;
 }
